@@ -1,0 +1,11 @@
+#include "pitches.h"
+
+int C_MAJ_CHORDS[7][3] = {
+  {NOTE_C3, NOTE_E3, NOTE_G3},
+  {NOTE_D3, NOTE_F3, NOTE_A3},
+  {NOTE_E3, NOTE_G3, NOTE_B3},
+  {NOTE_F3, NOTE_A3, NOTE_C3},
+  {NOTE_G3, NOTE_B3, NOTE_D3},
+  {NOTE_A3, NOTE_C3, NOTE_E3},
+  {NOTE_B3, NOTE_D3, NOTE_F3},
+};

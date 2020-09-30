@@ -1,0 +1,6 @@
+{
+    "sketch": "sequencer.ino",
+    "board": "arduino:samd:nano_33_iot",
+    "programmer": "AVR ISP",
+    "port": "/dev/tty.usbmodem1422401"
+}
